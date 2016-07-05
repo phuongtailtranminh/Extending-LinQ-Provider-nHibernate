@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<hibernate-mapping assembly="DemoNHibernate" namespace="DemoNHibernate" xmlns="urn:nhibernate-mapping-2.2">
+  <class name="Person" table="Person" lazy="true" >
+    <id name="ID" column="ID">
+      <generator class="identity"/>
+    </id>
+    <property name="Name">
+      <column name="name" sql-type="nvarchar" not-null="false" />
+    </property>
+    <property name="Age">
+      <column name="age" sql-type="int" not-null="false" />
+    </property>
+  </class>
+</hibernate-mapping>

@@ -1,0 +1,17 @@
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\DemoNHibernate.exe.config
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\DemoNHibernate.exe
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\DemoNHibernate.pdb
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Antlr3.Runtime.dll
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Castle.Core.dll
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Iesi.Collections.dll
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\NHibernate.dll
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Remotion.Data.Linq.dll
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Castle.Core.pdb
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Castle.Core.xml
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\Iesi.Collections.xml
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\NHibernate.xml
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\obj\Debug\DemoNHibernate.csprojResolveAssemblyReference.cache
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\obj\Debug\DemoNHibernate.exe
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\obj\Debug\DemoNHibernate.pdb
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\NHibernate.ByteCode.Castle.dll
+c:\users\phuon\onedrive\documents\visual studio 2015\Projects\DemoNHibernate\DemoNHibernate\bin\Debug\NHibernate.ByteCode.Castle.xml
